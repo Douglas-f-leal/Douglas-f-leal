@@ -1,9 +1,9 @@
 <div>
-  <a href="https://github.com/Dougla-f-leal
+  <a href="https://github.com/Douglas-f-leal
 ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dougla-f-leal
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas-f-leal
   &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dougla-f-leal
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-f-leal
   &layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
@@ -23,6 +23,6 @@
   <a href =""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Dougla-f-leal/Dougla-f-leal/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Douglas-f-leal/Douglas-f-leal/blob/output/github-contribution-grid-snake.svg)
 
 </div>
